@@ -7,7 +7,6 @@ This project analyzes the success of restaurant businesses based on user engagem
 - [Introduction](#introduction)
 - [Project Steps](#project-steps)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 
 ## Introduction
@@ -46,9 +45,13 @@ The goal of this project is to determine factors that contribute to the success 
 To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
-   ```sh
+
    git clone https://github.com/Sus-31/Yelp-Data-Analysis.git
    cd Yelp-Data-Analysis
+   
+2. **Install Dependencies**:
+Ensure you have Python installed. I have used Jupyter Notebook. You can install it. Then, install the required libraries:
+!pip install pandas folium seaborn matplotlib sqlite3
 
-
+## Results
 The analysis results will provide insights into how user engagement and review sentiment influence the success of restaurant businesses on Yelp. The final presentation will summarize these findings and offer actionable recommendations for business owners. Check the PDF for the findings.
