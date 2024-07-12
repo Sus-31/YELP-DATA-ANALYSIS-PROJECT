@@ -9,7 +9,6 @@ This project analyzes the success of restaurant businesses based on user engagem
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 
 ## Introduction
 
