@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
 
-   git clone https://github.com/Sus-31/Yelp-Data-Analysis.git
+   git clone https://github.com/Sus-31/YELP-DATA-ANALYSIS-PROJECT
    cd Yelp-Data-Analysis
    
 2. **Install Dependencies**:
