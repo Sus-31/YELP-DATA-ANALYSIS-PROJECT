@@ -1,6 +1,6 @@
 # Yelp Data Analysis Project
 
-This project analyzes the success of restaurant businesses based on user engagement and the sentiment of reviews on the Yelp platform. The dataset used for this analysis was downloaded from [Yelp Dataset](https://www.yelp.com/dataset).
+This project analyses the success of restaurant businesses based on user engagement and the sentiment of reviews on the Yelp platform. The dataset used for this analysis was downloaded from [Yelp Dataset](https://www.yelp.com/dataset).
 
 ## Table of Contents
 
